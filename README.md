@@ -1,3 +1,4 @@
+![Mari_Vet](https://github.com/LittleMari/Mari_Vet/assets/134427300/bd6cc0ed-7076-4d3a-abbb-2bf875b9f4cb)
 
 ## DESCRIPCIÓN
 Pequeño proyecto de Java en el que se implementa el uso de bases de datos, interfaces y clases y objetos.
