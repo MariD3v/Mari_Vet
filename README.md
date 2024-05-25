@@ -20,6 +20,6 @@ Además incluye una interfaz gráfica creada con Jpanel que permite su manejo de
 
 #### v1.0 Veterinaria (Legacy)
 
-Se trata de la versión inicial del proyecto, en su forma más simple. Intefaz sencilla, clases definidas y conexión con base de datos. 
+Se trata de la versión inicial del proyecto, en su forma más simple. Intefaz sencilla, clases principales definidas y conexión con base de datos. 
 
 
