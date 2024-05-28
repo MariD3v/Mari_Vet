@@ -39,7 +39,7 @@
   </NonVisualComponents>
   <Properties>
     <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-      <Color blue="cb" green="aa" red="f2" type="rgb"/>
+      <Color blue="cc" green="ae" red="ef" type="rgb"/>
     </Property>
   </Properties>
   <AuxValues>
@@ -60,64 +60,93 @@
           <Group type="102" alignment="0" attributes="0">
               <EmptySpace min="-2" pref="86" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                  <Component id="jBDeletePropietario" alignment="0" pref="150" max="32767" attributes="0"/>
-                  <Component id="jBSelectPropietario" alignment="0" pref="150" max="32767" attributes="0"/>
-                  <Component id="jBInsertPropietario" alignment="0" pref="150" max="32767" attributes="0"/>
-                  <Component id="jBUpdatePropietario" alignment="0" pref="150" max="32767" attributes="0"/>
+                  <Component id="jBDeletePropietario" alignment="0" max="32767" attributes="0"/>
+                  <Component id="jBSelectPropietario" alignment="0" max="32767" attributes="0"/>
+                  <Component id="jBInsertPropietario" alignment="0" max="32767" attributes="0"/>
+                  <Component id="jBUpdatePropietario" alignment="0" max="32767" attributes="0"/>
                   <Component id="label3" alignment="0" max="32767" attributes="0"/>
-                  <Component id="nombre_propietario" alignment="0" max="32767" attributes="0"/>
                   <Component id="dni_propietario" alignment="1" max="32767" attributes="0"/>
+                  <Component id="nombre_propietario" alignment="0" max="32767" attributes="0"/>
                   <Component id="id_propietario" alignment="0" max="32767" attributes="0"/>
+                  <Component id="id_propietarione" alignment="0" max="32767" attributes="0"/>
+                  <Component id="nombrene" max="32767" attributes="0"/>
+                  <Component id="dni_propietario1" max="32767" attributes="0"/>
               </Group>
               <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="label2" max="32767" attributes="0"/>
-                      <EmptySpace min="-2" pref="148" max="-2" attributes="0"/>
-                  </Group>
                   <Group type="102" attributes="0">
+                      <Component id="label2" max="32767" attributes="0"/>
+                      <EmptySpace min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                          <Component id="jBDeleteVeterinario" alignment="0" pref="150" max="32767" attributes="0"/>
-                          <Component id="jBSelectVeterinario" alignment="0" pref="150" max="32767" attributes="0"/>
-                          <Component id="jBInsertVeterinario" alignment="0" pref="150" max="32767" attributes="0"/>
-                          <Component id="jBUpdateVeterinario" alignment="0" pref="150" max="32767" attributes="0"/>
-                          <Component id="label6" alignment="0" max="32767" attributes="0"/>
+                          <Component id="id_Veterinarione" alignment="0" max="32767" attributes="0"/>
+                          <Component id="label7" alignment="0" max="32767" attributes="0"/>
                           <Component id="id_veterinario" alignment="0" max="32767" attributes="0"/>
                           <Component id="nombre_veterinario" alignment="0" max="32767" attributes="0"/>
-                          <Component id="edad_veterinario" alignment="1" max="32767" attributes="0"/>
+                          <Component id="jBDeleteVeterinario" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jBSelectVeterinario" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jBInsertVeterinario" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jBUpdateVeterinario" alignment="0" max="32767" attributes="0"/>
+                          <Component id="edad_veterinario" alignment="0" max="32767" attributes="0"/>
+                          <Component id="edad_veterinario2" alignment="0" max="32767" attributes="0"/>
+                          <Component id="nombrene2" max="32767" attributes="0"/>
                       </Group>
-                      <EmptySpace min="-2" pref="56" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
                           <Group type="102" attributes="0">
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="nombre_perro" alignment="0" pref="160" max="32767" attributes="0"/>
-                                  <Component id="id_perro" alignment="0" max="32767" attributes="0"/>
+                              <EmptySpace min="63" pref="63" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="id_propietario3" min="-2" pref="127" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="id_veterinario3" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                              <Component id="id_perro" max="32767" attributes="0"/>
+                                              <Component id="id_Perrone" max="32767" attributes="0"/>
+                                              <Component id="raza_color" max="32767" attributes="0"/>
+                                              <Component id="rycne" pref="127" max="32767" attributes="0"/>
+                                          </Group>
+                                          <Component id="id_propietariope" alignment="0" min="-2" pref="127" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="nombrene3" alignment="0" min="-2" pref="127" max="-2" attributes="0"/>
+                                          <Component id="nombre_perro" min="-2" pref="127" max="-2" attributes="0"/>
+                                          <Component id="Pesone" min="-2" pref="127" max="-2" attributes="0"/>
+                                          <Component id="peso_perro" min="-2" pref="127" max="-2" attributes="0"/>
+                                          <Component id="id_veterinariope" alignment="0" min="-2" pref="127" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                      <Component id="jBUpdatePerro" alignment="1" min="-2" pref="272" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                          <Component id="jBInsertPerro" alignment="0" pref="272" max="32767" attributes="0"/>
+                                          <Component id="jBSelectPerro" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="jBDeletePerro" alignment="0" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
                               </Group>
-                              <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
-                          </Group>
-                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                              <Component id="jBDeletePerro" alignment="0" pref="160" max="32767" attributes="0"/>
-                              <Component id="jBSelectPerro" alignment="0" pref="160" max="32767" attributes="0"/>
-                              <Component id="jBInsertPerro" alignment="0" pref="160" max="32767" attributes="0"/>
-                              <Component id="jBUpdatePerro" alignment="0" pref="160" max="32767" attributes="0"/>
-                              <Component id="label5" min="-2" max="-2" attributes="0"/>
-                              <Component id="id_propietariope" alignment="0" max="32767" attributes="0"/>
-                              <Component id="id_veterinariope" max="32767" attributes="0"/>
-                              <Component id="peso_perro" alignment="0" pref="160" max="32767" attributes="0"/>
-                              <Component id="raza_color" alignment="0" pref="160" max="32767" attributes="0"/>
-                          </Group>
-                      </Group>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Group type="102" attributes="0">
-                              <EmptySpace min="-2" pref="197" max="-2" attributes="0"/>
-                              <Component id="label4" min="-2" max="-2" attributes="0"/>
                           </Group>
                           <Group type="102" alignment="0" attributes="0">
-                              <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
-                              <Component id="jScrollPane1" min="-2" pref="425" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="164" max="-2" attributes="0"/>
+                              <Component id="label8" min="-2" max="-2" attributes="0"/>
                           </Group>
                       </Group>
-                      <EmptySpace min="-2" pref="166" max="-2" attributes="0"/>
+                      <EmptySpace pref="108" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="label9" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="252" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="jScrollPane1" min="-2" pref="459" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="71" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
                   </Group>
               </Group>
           </Group>
@@ -127,92 +156,90 @@
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" alignment="1" attributes="0">
               <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
-              <Component id="label2" min="-2" pref="70" max="-2" attributes="0"/>
+              <Component id="label2" min="-2" pref="116" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="1" attributes="0">
-                          <Component id="label3" min="-2" max="-2" attributes="0"/>
-                          <Component id="label6" min="-2" max="-2" attributes="0"/>
-                          <Component id="label5" alignment="1" min="-2" max="-2" attributes="0"/>
-                      </Group>
-                      <EmptySpace min="-2" pref="51" max="-2" attributes="0"/>
+                  <Group type="103" alignment="1" groupAlignment="0" attributes="0">
+                      <Component id="label7" min="-2" max="-2" attributes="0"/>
+                      <Component id="label3" min="-2" max="-2" attributes="0"/>
+                      <Component id="label8" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="label9" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="32" pref="32" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
                       <Group type="103" groupAlignment="3" attributes="0">
-                          <Component id="id_veterinario" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
-                          <Component id="id_propietario" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
-                          <Component id="id_perro" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="id_Veterinarione" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="id_propietarione" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="nombrene3" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="id_Perrone" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace type="separate" max="-2" attributes="0"/>
-                      <Component id="nombre_perro" min="-2" pref="35" max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                          <Group type="102" attributes="0">
-                              <EmptySpace min="-2" pref="61" max="-2" attributes="0"/>
-                              <Group type="103" groupAlignment="3" attributes="0">
-                                  <Component id="nombre_propietario" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
-                                  <Component id="nombre_veterinario" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
-                              </Group>
-                              <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
-                          </Group>
-                          <Group type="102" alignment="1" attributes="0">
-                              <EmptySpace type="separate" max="-2" attributes="0"/>
-                              <Component id="raza_color" min="-2" pref="35" max="-2" attributes="0"/>
-                              <EmptySpace max="32767" attributes="0"/>
-                              <Component id="peso_perro" min="-2" pref="35" max="-2" attributes="0"/>
-                              <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
-                          </Group>
-                      </Group>
-                      <Component id="id_propietariope" min="-2" pref="35" max="-2" attributes="0"/>
-                      <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
-                          <Component id="dni_propietario" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
-                          <Component id="edad_veterinario" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
-                          <Component id="id_veterinariope" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="id_propietario" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="id_veterinario" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="id_perro" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="nombre_perro" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
                       </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="nombrene" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="nombrene2" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="rycne" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="Pesone" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="nombre_veterinario" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="nombre_propietario" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="raza_color" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="peso_perro" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Group type="102" attributes="0">
-                              <EmptySpace max="32767" attributes="0"/>
-                              <Component id="jBDeletePropietario" min="-2" pref="33" max="-2" attributes="0"/>
-                              <EmptySpace type="separate" max="-2" attributes="0"/>
-                              <Component id="jBSelectPropietario" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace type="separate" max="-2" attributes="0"/>
-                              <Component id="jBInsertPropietario" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace type="separate" max="-2" attributes="0"/>
-                              <Component id="jBUpdatePropietario" min="-2" pref="32" max="-2" attributes="0"/>
+                          <Component id="dni_propietario1" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="edad_veterinario2" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                              <Component id="id_propietario3" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                              <Component id="id_veterinario3" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
                           </Group>
-                          <Group type="102" alignment="0" attributes="0">
-                              <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
-                              <Component id="jBDeletePerro" min="-2" pref="33" max="-2" attributes="0"/>
-                              <EmptySpace type="separate" max="-2" attributes="0"/>
-                              <Component id="jBSelectPerro" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace type="separate" max="-2" attributes="0"/>
-                              <Component id="jBInsertPerro" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace type="separate" max="-2" attributes="0"/>
-                              <Component id="jBUpdatePerro" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
-                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="id_propietariope" alignment="0" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="id_veterinariope" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="dni_propietario" alignment="0" min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="edad_veterinario" min="-2" pref="35" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="40" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jBDeletePropietario" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                          <Component id="jBDeleteVeterinario" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                          <Component id="jBDeletePerro" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jBSelectPropietario" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
+                          <Component id="jBSelectVeterinario" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
+                          <Component id="jBSelectPerro" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jBInsertPropietario" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
+                          <Component id="jBInsertVeterinario" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
+                          <Component id="jBInsertPerro" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jBUpdatePropietario" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
+                          <Component id="jBUpdateVeterinario" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
+                          <Component id="jBUpdatePerro" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
                       </Group>
                   </Group>
-                  <Group type="102" attributes="0">
-                      <EmptySpace max="32767" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Group type="102" alignment="1" attributes="0">
-                              <Component id="jBDeleteVeterinario" min="-2" pref="33" max="-2" attributes="0"/>
-                              <EmptySpace type="separate" max="-2" attributes="0"/>
-                              <Component id="jBSelectVeterinario" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace type="separate" max="-2" attributes="0"/>
-                              <Component id="jBInsertVeterinario" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace type="separate" max="-2" attributes="0"/>
-                              <Component id="jBUpdateVeterinario" min="-2" pref="32" max="-2" attributes="0"/>
-                          </Group>
-                          <Group type="102" alignment="1" attributes="0">
-                              <Component id="label4" min="-2" max="-2" attributes="0"/>
-                              <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
-                              <Component id="jScrollPane1" min="-2" pref="584" max="-2" attributes="0"/>
-                          </Group>
-                      </Group>
-                  </Group>
+                  <Component id="jScrollPane1" max="32767" attributes="0"/>
               </Group>
-              <EmptySpace min="-2" pref="411" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="495" max="-2" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
@@ -321,49 +348,16 @@
     </Component>
     <Component class="java.awt.Label" name="label3">
       <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="e3" green="ff" red="e3" type="rgb"/>
+        </Property>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-          <Font name="Malgun Gothic Semilight" size="18" style="1"/>
+          <Font name="Lucida Console" size="18" style="0"/>
         </Property>
         <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="cc" green="ff" red="cc" type="rgb"/>
+          <Color blue="0" green="cc" red="0" type="rgb"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="PROPIETARIO"/>
-      </Properties>
-    </Component>
-    <Component class="java.awt.Label" name="label4">
-      <Properties>
-        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-          <Font name="Malgun Gothic Semilight" size="18" style="1"/>
-        </Property>
-        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="cc" green="ff" red="cc" type="rgb"/>
-        </Property>
-        <Property name="text" type="java.lang.String" value="RESULTADO"/>
-      </Properties>
-    </Component>
-    <Component class="java.awt.Label" name="label5">
-      <Properties>
-        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-          <Font name="Malgun Gothic Semilight" size="18" style="1"/>
-        </Property>
-        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="cc" green="ff" red="cc" type="rgb"/>
-        </Property>
-        <Property name="text" type="java.lang.String" value="PERRO"/>
-      </Properties>
-      <AccessibilityProperties>
-        <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="VETERINARIO"/>
-      </AccessibilityProperties>
-    </Component>
-    <Component class="java.awt.Label" name="label6">
-      <Properties>
-        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-          <Font name="Malgun Gothic Semilight" size="18" style="1"/>
-        </Property>
-        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-          <Color blue="cc" green="ff" red="cc" type="rgb"/>
-        </Property>
-        <Property name="text" type="java.lang.String" value="VETERINARIO"/>
+        <Property name="text" type="java.lang.String" value=" PROPIETARIO"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JButton" name="jBDeleteVeterinario">
@@ -485,67 +479,289 @@
       </Events>
     </Component>
     <Component class="javax.swing.JTextField" name="id_veterinario">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="ID Veterinario"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JTextField" name="nombre_propietario">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Nombre"/>
-      </Properties>
     </Component>
     <Component class="javax.swing.JTextField" name="dni_propietario">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="DNI"/>
-      </Properties>
     </Component>
     <Component class="javax.swing.JTextField" name="nombre_veterinario">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="Nombre"/>
-      </Properties>
     </Component>
-    <Component class="javax.swing.JTextField" name="edad_veterinario">
+    <Component class="javax.swing.JTextField" name="id_propietarione">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Edad"/>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="e3" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Console" size="14" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="99" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" ID Propietario"/>
       </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="id_propietarioneActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="id_perro">
+    </Component>
+    <Component class="javax.swing.JTextField" name="peso_perro">
+    </Component>
+    <Component class="javax.swing.JTextField" name="nombre_perro">
+    </Component>
+    <Component class="javax.swing.JTextField" name="id_propietariope">
+    </Component>
+    <Component class="javax.swing.JTextField" name="id_veterinariope">
+    </Component>
+    <Component class="javax.swing.JTextField" name="raza_color">
     </Component>
     <Component class="javax.swing.JTextField" name="id_propietario">
-      <Properties>
-        <Property name="text" type="java.lang.String" value="ID Propietario"/>
-      </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="id_propietarioActionPerformed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JTextField" name="id_perro">
+    <Component class="javax.swing.JTextField" name="nombre_propietario">
+    </Component>
+    <Component class="javax.swing.JTextField" name="edad_veterinario">
+    </Component>
+    <Component class="javax.swing.JTextField" name="nombrene">
       <Properties>
-        <Property name="text" type="java.lang.String" value="ID Perro"/>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="e3" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Console" size="14" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="99" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="     Nombre"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="nombreneActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="dni_propietario1">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="e3" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Console" size="14" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="99" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="      DNI"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="dni_propietario1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.Label" name="label7">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="dc" green="ff" red="dc" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Console" size="18" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="cc" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" VETERINARIO"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JTextField" name="peso_perro">
+    <Component class="java.awt.Label" name="label8">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Peso"/>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="e4" green="ff" red="e4" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Console" size="18" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="cc" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" PERRO"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JTextField" name="nombre_perro">
+    <Component class="javax.swing.JTextField" name="id_Veterinarione">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Nombre"/>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="e3" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Console" size="14" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="99" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" ID Veterinario"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="id_VeterinarioneActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nombrene2">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="e3" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Console" size="14" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="99" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="     Nombre"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="nombrene2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="edad_veterinario2">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="e3" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Console" size="14" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="99" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="      Edad"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="edad_veterinario2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="java.awt.Label" name="label9">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="e5" green="ff" red="e5" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Console" size="18" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="cc" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" RESULTADO"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JTextField" name="id_propietariope">
+    <Component class="javax.swing.JTextField" name="id_veterinario3">
       <Properties>
-        <Property name="text" type="java.lang.String" value="ID Propietario"/>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JTextField" name="id_veterinariope">
-      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="e3" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Console" size="14" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="99" red="0" type="rgb"/>
+        </Property>
         <Property name="text" type="java.lang.String" value="ID Veterinario"/>
       </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="id_veterinario3ActionPerformed"/>
+      </Events>
     </Component>
-    <Component class="javax.swing.JTextField" name="raza_color">
+    <Component class="javax.swing.JTextField" name="id_propietario3">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Raza y Color"/>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="e3" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Console" size="14" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="99" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" ID Propietario"/>
       </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="id_propietario3ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nombrene3">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="e3" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Console" size="14" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="99" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="    Nombre"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="nombrene3ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="id_Perrone">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="e3" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Console" size="14" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="99" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="   ID Perro"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="id_PerroneActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="rycne">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="e3" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Console" size="14" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="99" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value=" Raza y Color"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rycneActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Pesone">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="e3" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Console" size="14" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="99" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="     Peso"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="PesoneActionPerformed"/>
+      </Events>
     </Component>
   </SubComponents>
 </Form>

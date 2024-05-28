@@ -157,6 +157,7 @@ public class Veterinario implements Serializable {
     public static void main(String[] args) {
         Veterinario v1 = new Veterinario(1, "Miguel Alonso", 26);
         Veterinario v2 = new Veterinario(2, "Juan Antonio", 24);
+        
     }
 
 }

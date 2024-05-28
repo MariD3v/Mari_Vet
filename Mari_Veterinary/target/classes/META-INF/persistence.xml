@@ -6,7 +6,7 @@
     <class>daw.project.Propietario</class>
     <class>daw.project.Veterinario</class>
     <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:sqlite:E:\Programación\database.db"/>
+      <property name="javax.persistence.jdbc.url" value="jdbc:sqlite:E:\1º DAW\Programación\Mari_Vet_Project\database.db"/>
       <property name="javax.persistence.jdbc.user" value=""/>
       <property name="javax.persistence.jdbc.driver" value="org.sqlite.JDBC"/>
       <property name="javax.persistence.jdbc.password" value=""/>
