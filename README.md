@@ -7,8 +7,7 @@ Este simulador implica la creación, operación y gestión de una veterinaria us
 
 Además incluye una interfaz gráfica creada con Jpanel que permite su manejo de forma sencilla.
 
-![image](https://github.com/LittleMari/Mari_Vet/assets/134427300/66cebd74-000f-41ae-9985-224c0b1321a6)
-
+![image](https://github.com/LittleMari/Mari_Vet/assets/134427300/08759342-91f0-433f-bf3f-053905a17d39)
 
 
 ## FUNCIONALIDADES
